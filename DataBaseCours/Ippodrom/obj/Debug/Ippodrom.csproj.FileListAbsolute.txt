@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Ippodrom\Ippodrom\bin\Debug\Ippodrom.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Ippodrom\Ippodrom\bin\Debug\Ippodrom.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Ippodrom\Ippodrom\bin\Debug\Ippodrom.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Ippodrom\Ippodrom\obj\Debug\Ippodrom.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Ippodrom\Ippodrom\obj\Debug\Ippodrom.Form1.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Ippodrom\Ippodrom\obj\Debug\Ippodrom.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Ippodrom\Ippodrom\obj\Debug\Ippodrom.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Ippodrom\Ippodrom\obj\Debug\Ippodrom.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Ippodrom\Ippodrom\obj\Debug\Ippodrom.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Ippodrom\Ippodrom\obj\Debug\Ippodrom.AddElement.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Ippodrom\Ippodrom\obj\Debug\Ippodrom.ShowElement.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Ippodrom\Ippodrom\obj\Debug\Ippodrom.GenTree.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Ippodrom\Ippodrom\bin\Debug\Ippodrom.mdf
+C:\Users\User\Documents\Visual Studio 2017\Projects\Ippodrom\Ippodrom\bin\Debug\Ippodrom_log.ldf
